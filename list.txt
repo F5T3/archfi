@@ -1,12 +1,3 @@
-# This file is a sample of a custom package list that is available at the pacstrap step.
-# Each line is a package but empty line and commented line is supported.
-
-# How to use :
-# Store your own file on a web server
-# Launch archfi with :
-# archfi -cpl url_of_the_file
-
-# Some packages :
 a52dec
 aalib
 abseil-cpp
@@ -300,6 +291,7 @@ grep
 grilo
 grilo-plugins
 groff
+grub
 gsettings-desktop-schemas
 gsfonts
 gsl
@@ -1084,6 +1076,7 @@ sushi
 svt-av1
 svt-hevc
 swell-foop
+syslinux
 sysprof
 systemd
 systemd-libs
