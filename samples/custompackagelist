@@ -300,7 +300,6 @@ grep
 grilo
 grilo-plugins
 groff
-grub
 gsettings-desktop-schemas
 gsfonts
 gsl
@@ -1085,7 +1084,6 @@ sushi
 svt-av1
 svt-hevc
 swell-foop
-syslinux
 sysprof
 systemd
 systemd-libs
